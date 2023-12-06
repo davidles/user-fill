@@ -2,7 +2,6 @@ import styled from "styled-components";
 
 
 export const LayoutContainer = styled.div`
-width:80VW;
     @media only screen and (min-width: 1430px){
         width:80VW;
     }
